@@ -13,4 +13,8 @@ public class Customer
         name = n;
         weight = w;
     }
+    public int k()
+    {
+        return 3;
+    }
 }
